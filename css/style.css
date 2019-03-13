@@ -1,8 +1,8 @@
 /*
 * @Author: Duy_Thoai
 * @Date:   2019-03-12 22:12:11
-* @Last Modified by:   Duy_Thoai
-* @Last Modified time: 2019-03-12 22:16:57
+* @Last Modified by:   duythoai
+* @Last Modified time: 2019-03-13 11:50:34
 */
 *,*:after,*:before{
 	padding:0;
@@ -21,6 +21,78 @@ body{
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Roboto', sans-serif;
 }
+img{
+	max-width: 100%;
+	height: auto;
+}
+ul,ol{
+	margin-left: 30px;
  /*i am coding*/
+}
  
+header {
+    border: 1px solid;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: url(../images/services-pattren-bg.png);
+}
 
+
+.section__title {
+    text-align: c;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.section__title h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: #212529;
+    margin-bottom: 2rem;
+}
+
+.section__title p {
+    color: darkgreen;
+    font-weight: bold;
+}
+.section__title span{
+	color: #fa573a;
+}
+.border {
+    width: 100px;
+    height: 2px;
+    background-color: #fa573a;
+    z-index: 999;
+    margin: auto;
+    border: 1px solid #fa573a !important;
+    margin-bottom: 3rem;
+}
+.todo{
+    border: 1px solid #b2aead;
+    padding: 3rem;
+    margin-bottom: 4rem;
+    box-shadow: 1px 1px 20px 7px #b2aead;
+}
+
+.todo h2 {
+    font-size: 2rem;
+    color: #fa573a;
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 3rem;
+    border-bottom: 1px solid #bfbfbf;
+    padding-bottom: 3rem;
+}
+.header__content {
+    border: 1px solid;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.header__item img {
+    width: 255px;
+    height: 231px;
+    overflow: hidden;
+}
+*{}
