@@ -1,0 +1,32 @@
+﻿Viết kế hoạch cho ngày mai :
+1/ Sáng dậy 4h30 tắt máy và checkin ngay với git
+( Ký tên và viết cam kết)
+2/ Mở file lên và làm theo các bước sau :
++ Uống nước 
++ Đọc "Mình là cá việc của mình là bơi"
++ Chụp 1 tấm hình đã làm xong mọi chuyện 
+-----------------------------------
+Đọc lại Các mục tiêu và cam kết : 
+Tôi là Thoại ngày tham gia cam kết của tôi là ngày 14/3
+1/ Tôi cam kết và sẽ làm theo nguyên tắc và kỷ luật : Không Phí thời gian vào video (Đã nói là làm - Dù bất cứ lý do gì không là không)
+
+2/ Tôi có 1 tấm ảnh : Mở điện thoại ra xem nha - Nó nói đến ước mơ của tôi : Có 1 căn nhà nhỏ, được tưới cây, được chơi với con cái, được nhìn nụ
+cười hạnh phúc trên khuôn mặt của người mình yêu - Yên bình và hạnh phúc
+
+3/ Mục tiêu của tôi không có gì khác ngoài : Kiếm được nhiều tiền để tự mình xây nhà cho mình, tự mình nuôi mình, và tự mình nuôi vợ mình -
+là nơi để người vợ có thể đi KỂ VỚI BẠN BÈ 
+
+4/ Để làm như vậy - Thoại cần - Bỏ đi những thú vui câu giờ - luôn đọc đi đọc lại mục tiêu - luôn xem hình ảnh ước mơ nhỏ bé của mình
+
+5/ Ngày mai bắt đầu chạy :
+----- Tôi phải đọc đủ 30 phút sách : và rút ra nhiều thứ cần giải quyết ở tâm mình
+------ 1 ngày tôi phải cảm ơn những người đã Chỉ trích tôi, chửi mắn tôi và nói chuyện với tôi, vì họ đã cho tôi trải nghiệm những điều tuyệt vời
+để kiềm chế bản thân - Để Rộng Lượng - Để tha thứ và Để Biết ơn
+----------Hãy thể hiện mình là người đàn ông đáng để NGƯỜI YÊU MÌNH NHẮC ĐẾN VỚI BẠN BÈ bằng cách : sáng đi làm hôn vợ 1 cái, và suy nghĩ
+anh sẽ làm cho em hạnh phúc , nhất định
+---------------Bắt đầu học Tiếng Anh theo cách tưởng tượng nào : nhiều từ kết hợp lại thành câu chuyện, tưởng tượng ra thực tế, và lặp lại vô số lần
+--------------------Tất cả thời gian còn lại Thoại chia như sau : HTML CSS - Hiệu ứng - JS
+
+++ Trong 2 ngày phải thuần thụt MENU : cho dù làm 100 lần đi chăng nữa - 
+++++Ngán thì chuyển qua section-about nhẹ : 50 lần
+++++++Ngán chuyển qua hiệu ứng nhẹ và đương nhiên : 1 hiệu ứng phải làm 50 lầm
