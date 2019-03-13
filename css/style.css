@@ -2,7 +2,7 @@
 * @Author: Duy_Thoai
 * @Date:   2019-03-12 22:12:11
 * @Last Modified by:   duythoai
-* @Last Modified time: 2019-03-13 11:50:34
+* @Last Modified time: 2019-03-13 17:07:26
 */
 *,*:after,*:before{
 	padding:0;
@@ -29,9 +29,14 @@ ul,ol{
 	margin-left: 30px;
  /*i am coding*/
 }
+li{
+	line-height: 1.8;
+}
+li > ul > li{
+	color:red;
+}
  
 header {
-    border: 1px solid;
     padding-top: 3rem;
     padding-bottom: 3rem;
     background-image: url(../images/services-pattren-bg.png);
@@ -76,14 +81,15 @@ header {
 }
 
 .todo h2 {
-    font-size: 2rem;
-    color: #fa573a;
+    font-size: 4rem;
+    color: #0CB8B6;
     position: relative;
     text-align: center;
     font-weight: bold;
     margin-bottom: 3rem;
     border-bottom: 1px solid #bfbfbf;
     padding-bottom: 3rem;
+    text-shadow: 2px 2px 0px #000000;
 }
 .header__content {
     border: 1px solid;
@@ -94,5 +100,54 @@ header {
     width: 255px;
     height: 231px;
     overflow: hidden;
+}
+.todo__item {
+    border: 1px solid rgba(153, 153, 153, 0.4);
+    padding: 15px;
+    height: 244px;
+    margin-bottom: 3rem;
+    transition: .2s linear all;
+}
+.todo__item h3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: #ff0202 !important;
+    margin-bottom: 2rem;
+    font-size: 24px;
+    position: relative;
+    letter-spacing: 2px;
+}
+
+.todo__item:hover {
+    box-shadow: 0px 2px 20px 6px #5bdfd9;
+    cursor: pointer;
+}
+.todo__item h3:after{
+	content: "";
+	z-index: 999;
+    height: 3px;
+    content: "";
+    position: absolute;
+    top: 36px;
+    left: 108px;
+    width: 68px;
+    background-color: #0CB8B6;
+}
+.todo__item p{margin-top: 4rem;}
+
+.todo__item p i {
+    color: red;
+    margin-right: 1rem;
+}
+.dongluc {
+    width: 267px;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+video{
+	max-width: 100%;
+	height: auto;
 }
 *{}
