@@ -2,7 +2,7 @@
 * @Author: Duy_Thoai
 * @Date:   2019-03-12 22:12:11
 * @Last Modified by:   duythoai
-* @Last Modified time: 2019-03-13 17:07:26
+* @Last Modified time: 2019-03-13 17:28:35
 */
 *,*:after,*:before{
 	padding:0;
@@ -17,6 +17,8 @@ body{
 	font-size: 1.6rem;
 	font-weight: 400;
 	color:#000;
+	overflow-x: hidden;
+	/* height: 100%; */
 }
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Roboto', sans-serif;
@@ -40,11 +42,11 @@ header {
     padding-top: 3rem;
     padding-bottom: 3rem;
     background-image: url(../images/services-pattren-bg.png);
+    overflow: hidden;
 }
 
 
 .section__title {
-    text-align: c;
     text-align: center;
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -141,7 +143,7 @@ header {
     margin-right: 1rem;
 }
 .dongluc {
-    width: 267px;
+    width: 150px;
     position: fixed;
     top: 0;
     right: 0;
@@ -151,3 +153,26 @@ video{
 	height: auto;
 }
 *{}
+
+.text_dongluc {
+    border: 1px solid;
+    width: 100vw;
+    background-color: #274160;
+    position: fixed;
+    bottom: 0px;
+    background-image: url(https://www.rite-tags.com/html/kamkaaj/images/transparent-pattren.png);
+    text-align: center;
+    padding: 15px;
+}
+
+.text_dongluc h2 {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 26px;
+}
+.text_dongluc h2 span{
+	color:red;
+}
+body{
+	margin-top: 40px;
+}
